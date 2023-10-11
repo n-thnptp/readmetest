@@ -1,10 +1,15 @@
 <h1 align="center">CS211-611 Project HomoSapiens</h1>
 <p align="center">
     <b>Project ภาคต้น 2566</b> <br>
-    <i>An open-source,</i> Simple Event Management program.
+    <i>An open-source,</i> Simple Event Management program.<br>
+    <br>
     <br><img width="922" alt="project-banner" src="https://github.com/CS211-661/cs211-661-project-homo-sapien/assets/96496274/755eff15-24c0-4a3e-af82-a2097f1768eb"><br>
     <br>
-    <br><a href="https://openinterpreter.com">About</a>‎ ‎ |‎ ‎ <b><a href="https://docs.openinterpreter.com/">Read the docs</a></b>‎ ‎ |‎ ‎ <br>
+    <br><a href="">About</a>‎ ‎ |‎ ‎ 
+    <a href="">Sample User Data</a>‎ ‎ |‎ ‎ 
+    <a href="">Installation</a>‎ ‎ |‎ ‎ 
+    <a href="">Files Structure</a>‎ ‎ |‎ ‎ 
+    <b><a href="">Read the manual</a></b><br>
 </p>
 
 ## Project detail
