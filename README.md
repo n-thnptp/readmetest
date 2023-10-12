@@ -5,11 +5,12 @@
     <br>
     <br><img width="922" alt="project-banner" src="https://github.com/CS211-661/cs211-661-project-homo-sapien/assets/96496274/755eff15-24c0-4a3e-af82-a2097f1768eb"><br>
     <br>
-    <br><a href="">❓ About</a>‎ ‎ |‎ ‎ 
-    <a href="">📋 Sample Data</a>‎ ‎ |‎ ‎ 
-    <a href="">⚙️ Installation</a>‎ ‎ |‎ ‎ 
-    <a href="">📁 Files Structure</a>‎ ‎ |‎ ‎ 
-    <a href="">🎓 Conclusion</a>‎ ‎ |‎ ‎ 
+    <br>
+    <a href="#-about">❓ About</a>‎ ‎ |‎ ‎ 
+    <a href="#-sample-user-data">📋 Sample Data</a>‎ ‎ |‎ ‎ 
+    <a href="#%EF%B8%8F-installation">⚙️ Installation</a>‎ ‎ |‎ ‎ 
+    <a href="#-files-structure">📁 Files Structure</a>‎ ‎ |‎ ‎ 
+    <a href="#-conclusion">🎓 Conclusion</a>‎ ‎ |‎ ‎ 
     <b><a href="">📚 Read the manual</a></b><br>
 </p>
 
@@ -79,3 +80,5 @@ $ java -jar cs211-661-project-0.3.0-jar-with-dependencies.jar
 ---
 
 ## 🎓 Conclusion
+
+---
